@@ -1,4 +1,4 @@
-#QA Engineer Code Challenge
+# QA Engineer Code Challenge
 
 * I used xpaths as element locators due to its high flexibility. I assigned them to variables to be able to reuse them and avoid duplicate code.
 
